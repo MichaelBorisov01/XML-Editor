@@ -1,0 +1,11 @@
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.New.resources
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\borim\OneDrive\Desktop\LAB-8-master\DataGridView\obj\Debug\DataGridView.pdb
